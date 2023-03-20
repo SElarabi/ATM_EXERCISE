@@ -1,5 +1,8 @@
+<!-- @format -->
+
 # ATM_EXERCISE
-<h1>ATM Machine React App </h1>
+
+<h1 class='display-h1'>ATM Machine React App </h1>
 </br>
 <p> This is a simple React application that simulates an ATM machine. The application allows users to select between making a deposit or a cash back transaction, enter the transaction amount, and view their account balance.</p>
 <br/>
@@ -25,6 +28,7 @@ The Account component also contains the following methods:
 handleChange: a method that is called whenever the user enters a deposit amount. It validates the amount entered and updates the state accordingly.
 handleSubmit: a method that is called when the user submits the form. It updates the account balance based on the transaction type and amount entered.
 handleModeSelect: a method that is called when the user selects a transaction type. It updates the state based on the user's selection.
+
 </p>
 
 <h2>License</h2>
